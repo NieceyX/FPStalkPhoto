@@ -1,3 +1,5 @@
 # FPStalkPhoto
 
-Just the scripts from the first Unity game I had made by myself, which was for a project in a class.
+This was made as a project for a class, it was the first Unity game I had made by myself - I probably won't come back to addon to it.
+
+Most, if not all, assests are from the Unity store for free.
